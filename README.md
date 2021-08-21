@@ -2,7 +2,7 @@
 # IMAGE-SAMPLING-AND-QUANTIZATION
 
 This image processing project is based on digitizing an input image based on its spatial(sampling) and amplitude
-properties(quantiZation).
+properties(quantization).
 The whole idea is implemented in Python using Opencv,Numpy 
 and Matplotlib.
 The PDF attached above gives the complete explanation of the idea used
