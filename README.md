@@ -1,8 +1,8 @@
 
-# IMAGE-SAMPLING-AND-QUANTISATION
+# IMAGE-SAMPLING-AND-QUANTIZATION
 
 This image processing project is based on digitizing an input image based on its spatial(sampling) and amplitude
-properties(quantisation).
+properties(quantiZation).
 The whole idea is implemented in Python using Opencv,Numpy 
 and Matplotlib.
 The PDF attached above gives the complete explanation of the idea used
@@ -31,11 +31,11 @@ For the image sampling
 ```bash
   python sampling.py
 ```
-For quantisation using thresholding method
+For quantization using thresholding method
 ```bash
   python quantisation_threshold.py
 ```
-For quantisation using k-means clustering
+For quantization using k-means clustering
 ```bash
   python quantisation_k_means.py
 ```
